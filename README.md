@@ -1,8 +1,11 @@
-# Sales-Performance-Dashboard(Power bi)
+# Sales-Performance-Dashboard(Excel,Power BI, DAX)
 This is a power bi dashboard created to visualize sales data across different regions and products.
 
 # Dashboard Preview
-<img width="905" height="504" alt="power bi project ss" src="https://github.com/user-attachments/assets/a82dac82-a649-43e1-bad4-b8a3ebe4efe1" /> - The dashboard screenshot
+<img width="905" height="504" alt="power bi project ss" src="https://github.com/user-attachments/assets/a82dac82-a649-43e1-bad4-b8a3ebe4efe1" /> 
+
+# Download dashboard
+
 
 # Features
 -Total sales by region and country
